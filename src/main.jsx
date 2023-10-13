@@ -7,5 +7,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <CalendarApp /> 
     {/* El calendarApp lo que tiene es un return al AppRouter */}
-  </React.StrictMode>,
+  </React.StrictMode>
 )
